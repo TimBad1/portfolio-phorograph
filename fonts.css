@@ -1,0 +1,31 @@
+/* inter-regular */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/Inter-Regular.woff2') format('woff2');
+}
+
+/* inter-bold */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/Inter-Bold.woff2') format('woff2');
+}
+
+/* Merriweather-bold */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/Merriweather-Bold.woff2') format('woff2');
+}
+
+/* Merriweather-regular */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/Merriweather-Regular.woff2') format('woff2');
+}
